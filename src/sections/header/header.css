@@ -19,9 +19,19 @@ header {
     height: 18rem;
     border-radius: 50%;
     overflow: hidden;
+    margin-top: 3rem;
     margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+.header__profile img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
 .header__container p {
     width: 35rem;
     text-align: center;

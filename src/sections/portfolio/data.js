@@ -13,82 +13,82 @@ const data = [
         id: 1,
         category: 'Terapia Holística',
         image: Image1,
-        title: "Project Title One (UIUX)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 2,
         category: 'Numerologia',
         image: Image2,
-        title: "Project Title Two (Frontend)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 3,
         category: 'Numerologia',
         image: Image3,
-        title: "Project Title Three (Frontend)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 4,
         category: 'Psicanálise',
         image: Image4,
-        title: "Project Title Four (UIUX)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 5,
         category: 'Terapia Holística',
         image: Image5,
-        title: "Project Title Five (UIUX)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 6,
         category: 'Psicanálise',
         image: Image6,
-        title: "Project Title Six (Frontend)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 7,
         category: 'Psicanálise',
         image: Image7,
-        title: "Project Title Seven (Frontend)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 8,
         category: 'Radiestesia',
         image: Image8,
-        title: "Project Title Eight (Backend)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     },
     {
         id: 9,
         category: 'Terapia Holística',
         image: Image9,
-        title: "Project Title Nine (Frontend)",
+        title: "Lorem ipsum dolor sit amet.",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        demo: 'https://www.instagram.com/juassi.terapeuta/',
+        github: 'https://api.whatsapp.com/message/GLK63BL5IZRSL1?autoload=1&app_absent=0'
     }
 ]
 

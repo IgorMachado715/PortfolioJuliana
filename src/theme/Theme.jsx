@@ -7,10 +7,10 @@ import './theme.css'
 const Theme = () => {
   return (
     <Modal className="theme__modal">
-        <h3>Customize Your Theme</h3>
-        <small>Change the primary and background color to your preference.</small>
+        <h3>Customize o tema</h3>
+        <small>Altere a cor primária e de fundo de acordo com sua preferência.</small>
         <div className="theme__primary-wrapper">
-            <h5>Primary Color</h5>
+            <h5>Cor Primária</h5>
             <div className="theme__primary-colors">
                 {
                     primaryColors.map(pColor => <PrimaryColor key={pColor.className} className={pColor.className}/>)
@@ -18,7 +18,7 @@ const Theme = () => {
             </div>
         </div>
         <div className="theme__background-wrapper">
-            <h5>Background Color</h5>
+            <h5>Cor de Fundo</h5>
             <div className="theme__background-colors">
                 {
                     backgroundColors.map(bColor => <BackgroundColor key={bColor.className} className={bColor.className} />)
